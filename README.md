@@ -14,5 +14,5 @@ My starting notes (taken during a call with Greg) are:
 
 ## MeTTaTron
 
-[MeTTaTron](git@github.com:F1R3FLY-io/MeTTa-Compiler.git) is a MeTTa
+[MeTTaTron](https://github.com/F1R3FLY-io/MeTTa-Compiler) is a MeTTa
 to MeTTaIL compiler.
