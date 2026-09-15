@@ -16,3 +16,11 @@ My starting notes (taken during a call with Greg) are:
 
 [MeTTaTron](https://github.com/F1R3FLY-io/MeTTa-Compiler) is a MeTTa
 to MeTTaIL compiler.
+
+### Install MeTTaTron
+
+- See [prerequisites](https://github.com/F1R3FLY-io/MeTTa-Compiler#prerequisites)
+- Then
+  [compile](https://github.com/F1R3FLY-io/MeTTa-Compiler/blob/main/INSTALL.md#building-from-source)
+  this should involve cloning a bunch of repos, not just
+  MeTTa-Compiler.
