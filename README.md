@@ -19,8 +19,11 @@ to MeTTaIL compiler.
 
 ### Install MeTTaTron
 
-- See [prerequisites](https://github.com/F1R3FLY-io/MeTTa-Compiler#prerequisites)
-- Then
-  [compile](https://github.com/F1R3FLY-io/MeTTa-Compiler/blob/main/INSTALL.md#building-from-source)
-  this should involve cloning a bunch of repos, not just
-  MeTTa-Compiler.
+1. As of 2026/09/16 you need to check out the branch
+   [feature/petta-semantics](https://github.com/F1R3FLY-io/MeTTa-Compiler/tree/feature/petta-semantics).
+2. See
+   [prerequisites](https://github.com/F1R3FLY-io/MeTTa-Compiler#prerequisites).
+3. Then
+   [compile](https://github.com/F1R3FLY-io/MeTTa-Compiler/blob/main/INSTALL.md#building-from-source).
+   This should involve cloning a bunch of repos, not just
+   MeTTa-Compiler.
