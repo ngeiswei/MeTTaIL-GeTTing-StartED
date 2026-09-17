@@ -25,5 +25,9 @@ to MeTTaIL compiler.
    [prerequisites](https://github.com/F1R3FLY-io/MeTTa-Compiler#prerequisites).
 3. Then
    [compile](https://github.com/F1R3FLY-io/MeTTa-Compiler/blob/main/INSTALL.md#building-from-source).
-   This should involve cloning a bunch of repos, not just
-   MeTTa-Compiler.
+   However you should use these branches instead for PathMap and MORK:
+   ```
+   git clone --branch feature/mettatron-fixes git@github.com:dylon/PathMap.git
+   git clone --branch feature/arbitrary-space-value-types git@github.com:dylon/MORK.git
+   git clone --branch master git@github.com:dylon/f1r3node-rust.git
+   ```
