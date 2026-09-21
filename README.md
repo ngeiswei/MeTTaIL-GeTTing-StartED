@@ -24,6 +24,22 @@ Follow the instructions provided in the
 [README.md](https://github.com/F1R3FLY-io/f1r3node/blob/rust/dev/README.md)
 file of f1r3node.
 
+## RhoLang
+
+### Install RhoLang
+
+Follow the instructions provided in the
+[README.md](https://github.com/F1R3FLY-io/rholang-rs/blob/master/README.md)
+file of [rholang-rs](https://github.com/F1R3FLY-io/rholang-rs).
+
+You may need to prepend
+
+```
+RUSTFLAGS="-C target-cpu=native"
+```
+
+to the compiling and launching commands.
+
 ## MeTTaTron
 
 [MeTTaTron](https://github.com/F1R3FLY-io/MeTTa-Compiler) is a MeTTa
