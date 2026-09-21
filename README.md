@@ -12,6 +12,18 @@ My starting notes (taken during a call with Greg) are:
 - Spatial Behavioral Types: MLab, claim
 - Chess: coalition logic in the where clause
 
+## F1r3node
+
+MeTTaIL runs inside a
+[f1r3node](https://github.com/F1R3FLY-io/f1r3node), thus it must be
+installed first.
+
+### Install f1r3node
+
+Follow the instructions provided in the
+[README.md](https://github.com/F1R3FLY-io/f1r3node/blob/rust/dev/README.md)
+file of f1r3node.
+
 ## MeTTaTron
 
 [MeTTaTron](https://github.com/F1R3FLY-io/MeTTa-Compiler) is a MeTTa
