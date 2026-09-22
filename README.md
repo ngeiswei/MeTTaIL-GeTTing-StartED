@@ -38,7 +38,11 @@ You may need to prepend
 RUSTFLAGS="-C target-cpu=native"
 ```
 
-to the compiling and launching commands.
+to the compiling and launching commands, such as
+
+```
+RUSTFLAGS="-C target-cpu=native" cargo build --release
+```
 
 ## MeTTaTron
 
